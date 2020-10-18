@@ -1,0 +1,935 @@
+# Good sources
+# http://www.cs.virginia.edu/~robins/quotes.html
+# http://www.brainyquote.com/
+_HELLO_ Hello $USER
+_HELLO_ Hi $USER
+_HELLO_ Hi there
+_HELLO_ What's up $USER
+_HELLO_ Hola $USER
+_HELLO_ Namaste $USER
+_HELLO_ Grüß dich $USER
+_HELLO_ Hoi $USER
+_HELLO_ Griass enk $USER
+_HELLO_ Seavas $USER
+_HELLO_ Moin $USER
+_HELLO_ Guude $USER
+_HELLO_ Hoa $USER !
+_HELLO_ Selamat $USER
+_HELLO_ Menyapa $USER
+_HELLO_ Ciao $USER
+_HELLO_ Konnichi wa $USER-san
+_HELLO_ Maido $USER-san
+_HELLO_ Maido ookini $USER-san
+_HELLO_ Ohayo-sama $USER-san
+_HELLO_ God dag $USER
+_HELLO_ Morsning $USER
+_HELLO_ Tjenare $USER!
+_HELLO_ Tjabba $USER!
+_HELLO_ Mari mari $USER
+_HELLO_ Imaynalla $USER
+_HELLO_ Dobroj tut $USER
+_HELLO_ Ej $USER
+_HELLO_ Lasho des $USER
+_HELLO_ Zdravstvui $USER
+_HELLO_ Zdorovo $USER
+_HELLO_ Iorana $USER
+_HELLO_ Em hotep $USER
+_HELLO_ Saluton $USER
+_HELLO_ Goedendag $USER
+_HELLO_ Jou san $USER
+_HELLO_ Laphi $USER
+_BYE_ Bye
+_BYE_ See you
+_BYE_ See you later
+_BYE_ Adios
+_BYE_ Thanks
+_BYE_ That's all
+_BYE_ Vaarwel
+_BYE_ Pirkano oka yan
+_BYE_ Ánágodziih doleel
+_BYE_ Salaam
+_BYE_ Jakisiñkama
+_BYE_ Da pabaczenia
+_BYE_ Dovidjenja
+_BYE_ Ciao
+_BYE_ Fins aviat
+_BYE_ Nêstaévâhósevóomâtse
+_BYE_ Adjø
+_BYE_ Tot straks
+_BYE_ Senebti
+_BYE_ G^is la revido
+_BYE_ Hyvästi
+_BYE_ Au revoir
+_BYE_ À la prochaine
+_BYE_ Bis später
+_BYE_ Mach's gut
+_BYE_ Tschüß
+_BYE_ Auf Wiedersehen
+_BYE_ Tschüss
+_BYE_ Seavas
+_BYE_ Andio sas
+_BYE_ Iss to epanidin
+_BYE_ Xaire
+_BYE_ Khairete
+_BYE_ Aloha
+_BYE_ Shalom
+_BYE_ Sampai jumpa
+_BYE_ Tabik
+_BYE_ Inuulluarit
+_BYE_ Arrivederci
+_BYE_ Sayonara
+_BYE_ Itte irasshai
+_BYE_ Dewa mata
+_BYE_ Jaa nee
+_BYE_ Jaa mata
+_BYE_ Soreja mata
+_BYE_ Hona sainara
+_BYE_ Mata ai masho
+_BYE_ Sugeng tindak
+_BYE_ Annyong-hi kashipshio
+_BYE_ Vale
+_BYE_ Peukallal
+_BYE_ Haere ki to kainga
+_BYE_ Toittazqueh
+_BYE_ Hágoónee
+_BYE_ Até logo
+_BYE_ Tinkunanchiskama
+_BYE_ Iorana
+_BYE_ Latcho drom
+_BYE_ Do svidanja
+_BYE_ Uvidimsja
+_BYE_ Adjö
+_BYE_ Synes
+_BYE_ Tjadå
+_HUMOUR_ There are 10 types of people in the world: those who understand binary, and those who don't
+_HUMOUR_ If at first you don't succeed; call it version 1.0
+_HUMOUR_ I'm not anti-social; I'm just not user friendly
+_HUMOUR_ My software never has bugs. It just develops random features
+_HUMOUR_ Roses are #FF0000 , Violets are #0000FF , All my base belongs to you
+_HUMOUR_ In a world without fences and walls, who needs Gates and Windows?
+_HUMOUR_ Hand over the calculator, friends don't let friends derive drunk
+_HUMOUR_ I would love to change the world, but they won't give me the source code
+_HUMOUR_ Enter any 11-digit prime number to continue…
+_HUMOUR_ The box said ‘Requires Windows 95 or better'. So I installed LINUX
+_HUMOUR_ A penny saved is 1.39 cents earned, if you consider income tax
+_HUMOUR_ Unix, DOS and Windows…the good, the bad and the ugly
+_HUMOUR_ A computer lets you make more mistakes faster than any invention in human history – with the possible exceptions of handguns and tequila
+_HUMOUR_ The code that is the hardest to debug is the code that you know cannot possibly be wrong
+_HUMOUR_ UNIX is basically a simple operating system, but you have to be a genius to understand the simplicity
+_HUMOUR_ Ethernet (n): something used to catch the etherbunny
+_HUMOUR_ You know it's love when you memorize her IP number to skip DNS overhead
+_HUMOUR_ JUST SHUT UP AND REBOOT!!
+_HUMOUR_ 1f u c4n r34d th1s u r34lly n33d t0 g37 l41d
+_HUMOUR_ Alcohol & calculus don't mix. Never drink & derive
+_HUMOUR_ How do I set a laser printer to stun?
+_HUMOUR_ There is only one satisfying way to boot a computer
+_HUMOUR_ Concept: On the keyboard of life, always keep one finger on the escape button
+_HUMOUR_ It's not bogus, it's an IBM standard
+_HUMOUR_ Be nice to the nerds, for all you know they might be the next Bill Gates!
+_HUMOUR_ The farther south you go, the more dollar stores there are
+_HUMOUR_ Beware of programmers that carry screwdrivers
+_HUMOUR_ The difference between e-mail and regular mail is that computers handle e-mail, and computers never decide to come to work one day and shoot all the other computers
+_HUMOUR_ If you want a language that tries to lock up all the sharp objects and fire-making implements, use Pascal or Ada: the Nerf languages, harmless fun for children of all ages, and they won't mar the furniture
+_HUMOUR_ COFFEE.EXE Missing – Insert Cup and Press Any Key
+_HUMOUR_ Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the Universe trying to produce bigger and better idiots. So far, the Universe is winning
+_HUMOUR_ LISP = Lots of Irritating Silly Parentheses
+_HUMOUR_ The beginning of the programmer's wisdom is understanding the difference between getting program to run and having a runnable program
+_HUMOUR_ Squash one bug, you'll see ten new bugs popping
+_HUMOUR_ Everytime i time i touch my code, i give birth to ten new bugs
+_HUMOUR_ boast = blogging is open & amiable sharing of thoughts
+_HUMOUR_ We are sorry, but the number you have dialed is imaginary. Please rotate your phone 90 degrees and try again
+_HUMOUR_ Cannot find REALITY.SYS. Universe halted
+_HUMOUR_ If it weren't for C, we'd all be programming in BASI and OBO
+_HUMOUR_ Bad command or file name! Go stand in the corner
+_HUMOUR_ Bad or corrupt header, go get a haircut
+_HUMOUR_ Unrecognized input, get out of the class
+_HUMOUR_ Warning! Buffer overflow, close the tumbler !
+_HUMOUR_ WinErr 547: LPT1 not found… Use backup… PENCIL & PAPER
+_HUMOUR_ Bad or missing mouse driver. Spank the cat? (Y/N)
+_HUMOUR_ Computers make very fast, very accurate mistakes
+_HUMOUR_ Best file compression around: "rm *.*" = 100% compression
+_HUMOUR_ Hackers in hollywood movies are phenomenal. All they need to do is "c:> hack into fbi"
+_HUMOUR_ BREAKFAST.COM Halted…Cereal Port Not Responding
+_HUMOUR_ I survived an NT installation
+_HUMOUR_ The name is Baud……James Baud
+_HUMOUR_ My new car runs at 56Kbps
+_HUMOUR_ Why doesn't DOS ever say "EXCELLENT command or filename!"
+_HUMOUR_ File not found. Should I fake it? (Y/N)
+_HUMOUR_ Cannot read data, leech the next boy's paper? (Y/N)
+_HUMOUR_ CONGRESS.SYS Corrupted: Re-boot Washington D.C (Y/n)?
+_HUMOUR_ Does fuzzy logic tickle?
+_HUMOUR_ Helpdesk : Sir, you need to add 10GB space to your HD , Customer : Could you please tell where I can download that?
+_HUMOUR_ Windows: Just another pane in the glass
+_HUMOUR_ Who's General Failure & why's he reading my disk?
+_HUMOUR_ RAM disk is not an installation procedure
+_HUMOUR_ Shell to DOS…Come in DOS, do you copy? Shell to DOS…
+_HUMOUR_ The truth is out there…anybody got the URL?
+_HUMOUR_ Smash forehead on keyboard to continue…..
+_HUMOUR_ E-mail returned to sender — insufficient voltage
+_HUMOUR_ Help! I'm modeming… and I can't hang up!!!
+_HUMOUR_ All wiyht. Rho sritched mg kegtops awound?
+_HUMOUR_ Once I got this error on my Linux box: Error. Keyboard not attached. Press F1 to continue
+_HUMOUR_ Once I got this error on my Linux box: Error. Mouse not attached. Please left click the ‘OK' button to continue
+_HUMOUR_ Press any key to continue or any other key to quit…
+_HUMOUR_ Press every key to continue
+_HUMOUR_ Helpdesk: Sir if you see the blue screen, press any key to continue. Customer : hm.. just a min.. where's that ‘any key'..
+_HUMOUR_ Idiot, Go ahead, make my data!
+_HUMOUR_ Old programmers never die; they just give up their resources
+_HUMOUR_ To err is human – and to blame it on a computer is even more so
+_HUMOUR_ (001) Logical Error CLINTON.SYS: Truth table missing
+_HUMOUR_ Clinton:/> READ | PARSE | WRITE | DUMP >> MONKIA.SYS
+_HUMOUR_ (D)inner not ready: (A)bort (R)etry (P)izza
+_HUMOUR_ Computers can never replace human stupidity
+_HUMOUR_ A typical Yahoo! inbox : Inbox(0), Junk(9855210)
+_HUMOUR_ (A)bort, (R)etry, (P)anic?
+_HUMOUR_ Bugs come in through open Windows
+_HUMOUR_ Penguins love cold, they wont survive the sun
+_HUMOUR_ Unix is user friendly…its just selective about who its friends are
+_HUMOUR_ Artificial intelligence usually beats real stupidity
+_HUMOUR_ Bell Labs Unix — Reach out and grep someone.
+_HUMOUR_ To err is human…to really foul up requires the root password.
+_HUMOUR_ Invalid password : Please enter the correct password to (Abort / Retry / Ignore )
+_HUMOUR_ FUBAR – where Geeks go for a drink
+_HUMOUR_ I degaussed my girlfriend and I'm just not attracted to her anymore
+_HUMOUR_ Scandisk : Found 2 bad sectors. Please enter a new HD to continue scanning
+_HUMOUR_ Black holes are where God divided by zero
+_HUMOUR_ Hey! It compiles! Ship it!
+_HUMOUR_ Thank god, my baby just compiled
+_HUMOUR_ Yes! My code compiled, and my wife just produced the output
+_HUMOUR_ Windows 98 supports real multitasking – it can boot and crash simultaneously
+_HUMOUR_ Zap! And there was the blue screen !
+_HUMOUR_ Please send all spam to my main address, root@localhost
+_HUMOUR_ MailerD(a)emon: You just received 9133547 spam. (O)pen all, (R)ead one by one, (C)heck for more spam
+_HUMOUR_ A: Can you teach me how to use a computer? B: No. I just fix the machines, I don't use them
+_HUMOUR_ PayPal: Your funds have been frozen for 668974 days
+_HUMOUR_ 1-800-404 : The subscriber you are trying to call does not exist
+_HUMOUR_ 1-800-403 : Access to that subscriber was denied
+_HUMOUR_ Error message: "Out of paper on drive D:"
+_HUMOUR_ If I wanted a warm fuzzy feeling, I'd antialias my graphics!
+_HUMOUR_ A printer consists of three main parts: the case, the jammed paper tray and the blinking red light
+_HUMOUR_ "Mr. Worf, scan that ship." "Aye Captain. 300 dpi?"
+_HUMOUR_ Smith & Wesson: The Original Point And Click Interface
+_HUMOUR_ Shout onto a newsgroup : It echoes back flames and spam
+_HUMOUR_ Firewall : Intruder detected. (A)llow in (D)eactivate the firewall
+_HUMOUR_ Real programmers can write assembly code in any language
+_HUMOUR_ Warning! Perl script detected! (K)ill it , (D)eactivate it
+_HUMOUR_ Firewall : Do you want to place a motion detector on port 80 ?
+_HUMOUR_ Helpdesk: Sir, please refill your ink catridges Customer : Where can i download that?
+_HUMOUR_ All computers run at the same speed… with the power off
+_HUMOUR_ You have successfully logged in, Now press any key to log out
+_HUMOUR_ Sorry, the password you tried is already being used by Dorthy, please try something else.
+_HUMOUR_ Sorry, that username already exists. (O)verwrite it (C)ancel
+_HUMOUR_ Please send all flames, trolls, and complaints to /dev/toilet
+_HUMOUR_ Shut up, or i'll flush you out
+_HUMOUR_ Cron : Enter cron command Now enter the number of minutes in an hour
+_HUMOUR_ We are experiencing system trouble — do not adjust your terminal
+_HUMOUR_ You have successfully hacked in, Welcome to the FBI mainframes.
+_HUMOUR_ I'm sorry, our software is perfect. The problem must be you
+_HUMOUR_ Never underestimate the bandwidth of a station wagon full of tapes hurling down the highway
+_HUMOUR_ Webhost livehelp: Sir you ran out of bandwidth, User: Where can I download that?
+_HUMOUR_ If Ruby is not and Perl is the answer, you don't understand the question
+_HUMOUR_ Having soundcards is nice… having embedded sound in web pages is not
+_HUMOUR_ My computer was full, so I deleted everything on the right half
+_HUMOUR_ You have received a new mail which is 195537 hours old
+_HUMOUR_ Yahoo! Mail: Your email was sent successfully. The email will delivered in 4 days and 8 hours
+_HUMOUR_ I'm sorry for the double slash (Tim Berners-Lee in a Panel Discussion, WWW7, Brisbane, 1998)
+_HUMOUR_ Ah, young webmaster… java leads to shockwave. Shockwave leads to realaudio. And realaudio leads to suffering
+_HUMOUR_ What color do you want that database?
+_HUMOUR_ C++ is a write-only language, once can write programs in C++, but I can't read any of them
+_HUMOUR_ As of next week, passwords will be entered in Morse code
+_HUMOUR_ Earth is 98% full … please delete anyone you can
+_HUMOUR_ A typical yahoo chat room: "A has signed in, A has signed out, B has signed in, B has signed out, C has signed in, C has signed out.."
+_HUMOUR_ When someone says "I want a programming language in which I need only say what I wish done," give him a lollipop
+_HUMOUR_ Warning! No processor found! Press any key to continue
+_HUMOUR_ Failure is not an option. It comes bundled with your Microsoft product
+_HUMOUR_ NT is the only OS that has caused me to beat a piece of hardware to death with my bare hands
+_HUMOUR_ Warning! Kernel crashed, Run for your lives !
+_HUMOUR_ NASA uses Windows? Oh great. If Apollo 13 went off course today the manual would just tell them to open the airlock, flush the astronauts out, and re-install new one
+_HUMOUR_ JavaScript: An authorizing language designed to make Netscape crash
+_HUMOUR_ How's my programming? Call 1-800-DEV-NULL
+_HUMOUR_ Yes, friends and neighbors, boys and girls – my PC speaker crashed NT
+_HUMOUR_ root:> Sorry, you entered the wrong password, the correct password is ‘a_49qwXk'
+_HUMOUR_ New linux package released. Please install on /dev/null
+_HUMOUR_ Quake and uptime do not like each other
+_HUMOUR_ Unix…best if used before: Tue Jan 19 03:14:08 GMT 2038
+_HUMOUR_ As you well know, magic and weapons are prohibited inside the cafeteria — Final Fantasy VIII
+_HUMOUR_ Man is the best computer we can put aboard a spacecraft…and the only one that can be mass produced with unskilled labo
+_HUMOUR_ Unix is the only virus with a command line interface
+_HUMOUR_ Windows 95 makes Unix look like an operating system
+_HUMOUR_ How are we supposed to hack your system if it's always down!
+_HUMOUR_ God is real, unless declared integer
+_HUMOUR_ I'm tempted to buy the slashdot staff a grammar checker. What do they do for 40 hours a week?
+_HUMOUR_ Paypal : Please enter your credit card number to continue
+_HUMOUR_ It takes a million monkeys at typewriters to write Shakespeare, but only a dozen monkeys at computers to run Network Solutions
+_HUMOUR_ Please help – firewall burnt down – lost packet – reward $$$
+_HUMOUR_ If Linux were a beer, it would be shipped in open barrels so that anybody could piss in it before delivery
+_HUMOUR_ Thank you Mario! But our princess is in another castle
+_HUMOUR_ Perl, the only language that looks the same before and after RSA encryption
+_HUMOUR_ Norton: Incoming virus – (D)ownload and save (R)un after download
+_HUMOUR_ I had a dream… and there were 1′s and 0′s everywhere, and I think I saw a 2!
+_HUMOUR_ You sir, are an unknown USB device driver
+_HUMOUR_ C isn't that hard: void (*(*f[])())() defines f as an array of unspecified size, of pointers to functions that return pointers to functions that return void
+_HUMOUR_ We are sorry, but the number you have dialed is imaginary. Please rotate your phone 90 degrees and try again
+_HUMOUR_ #>Bad command or file name! Go stand in the corner
+_HUMOUR_ WinErr 547: LPT1 not found... Use backup... PENCIL & PAPER
+_HUMOUR_ Best file compression around: "rm *.*" = 100% compression
+_HUMOUR_ Why doesn't DOS ever say "EXCELLENT command or filename!"
+_HUMOUR_ File not found. Should I fake it? (Y/N)
+_HUMOUR_ Who's General Failure & why's he reading my disk?
+_HUMOUR_ RAM disk is not an installation procedure
+_HUMOUR_ All wiyht. Rho sritched mg kegtops awound?
+_HUMOUR_ Press every key to continue
+_HUMOUR_ Press any key to continue or any other key to quit...
+_HUMOUR_ To err is human - and to blame it on a computer is even more so
+_HUMOUR_ Computers can never replace human stupidity
+_HUMOUR_ Black holes are where God divided by zero
+_HUMOUR_ Sorry, the password you tried is already being used by Dorthy, please try something else.
+_HUMOUR_ I'm sorry, our software is perfect. The problem must be you
+_HUMOUR_ If Python is not and Perl is the answer, you don't understand the question
+_HUMOUR_ Warning! Kernel crashed, Run for your lives !
+_HUMOUR_ Unix...best if used before: Tue Jan 19 03:14:08 GMT 2038
+_HUMOUR_ McGyver can teach us many things we don't want to know.
+_HUMOUR_ When you hear the toilet flush and the words Uh-oh, it's already too late.
+_HUMOUR_ Illiterate? Write today for free help.
+_HUMOUR_ SEX is not the answer. SEX is the question and YES is the answer!!
+_HUMOUR_ Keep talking. I always yawn when I'm interested.
+_HUMOUR_ Fairy tales do not tell children the dragons exist. Children already know that dragons exist. Fairy tales tell children the dragons can be killed.
+_HUMOUR_ Before I got married I had six theories about bringing up children; now I have six children and no theories.
+_HUMOUR_ Dear Romeo, My death isn't the only thing I've been faking... Sincerely, Juliet
+_HUMOUR_ Those who believe in telekinetics, raise my hand!
+_HUMOUR_ A bus station is where a bus stops. A train station is where a train stops. On my desk, I have a work station...
+_QUOTE_ We should forget about small efficiencies, say about 97% of the time: premature optimization is the root of all evil. --C. A. R. Hoare
+_QUOTE_ Walking on water and developing software from a specification are easy if both are frozen. --Edward V Berard
+_QUOTE_ It always takes longer than you expect, even when you take into account Hofstadter's Law. --Hofstadter's Law
+_QUOTE_ Some people, when confronted with a problem, think "I know, I'll use regular expressions." Now they have two problems. --Jamie Zawinski
+_QUOTE_ Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it. --Brian Kernighan
+_QUOTE_ Measuring programming progress by lines of code is like measuring aircraft building progress by weight. --Bill Gates
+_QUOTE_ PHP is a minor evil perpetrated and created by incompetent amateurs, whereas Perl is a great and insidious evil, perpetrated by skilled but perverted professionals. --Jon Ribbens
+_QUOTE_ On two occasions I have been asked, ‘Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out?' I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question. --Charles Babbage
+_QUOTE_ Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live. --Rick Osborne
+_QUOTE_ Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the Universe trying to produce bigger and better idiots. So far, the Universe is winning. --Rich Cook
+_QUOTE_ I don't care if it works on your machine! We are not shipping your machine! --Ovidiu Platon
+_QUOTE_ I have always wished for my computer to be as easy to use as my telephone; my wish has come true because I can no longer figure out how to use my telephone. --Bjarne Stroustrup
+_QUOTE_ A computer lets you make more mistakes faster than any other invention in human history, with the possible exceptions of handguns and tequila. --Mitch Ratcliffe
+_QUOTE_ If debugging is the process of removing software bugs, then programming must be the process of putting them in. --E. W. Dijkstra
+_QUOTE_ It is practically impossible to teach good programming style to students that have had prior exposure to BASIC. As potential programmers, they are mentally mutilated beyond hope of regeneration. --E. W. Dijkstra
+_QUOTE_ In theory, theory and practice are the same. In practice, they're not. --Yoggi Berra
+_QUOTE_ Two things are infinite: the universe and human stupidity; and I'm not sure about the universe. --Albert Einstein
+_QUOTE_ Perl – The only language that looks the same before and after RSA encryption. --Keith Bostic
+_QUOTE_ I love deadlines. I like the whooshing sound they make as they fly by. --Douglas Adams
+_QUOTE_ People have the right to be stupid. Some people abuse that privilege. -- Unknown
+_QUOTE_ Don't think of yourself as an ugly person. Think of yourself as a beautiful monkey! -- Unknown
+_QUOTE_ Alcohol doesn't solve any problems, but then again, neither does milk." -- Unknown
+_QUOTE_ Behind every successful man stands a surprised mother-in-law. -- Hubert Humphrey
+_QUOTE_ Love is temporary insanity curable by marriage. -- Ambrose Bierce
+_QUOTE_ Don't take life too seriously. You'll never get out alive! -- Bugs Bunny
+_QUOTE_ It's clever, but is it Art? -- Rudyard Kipling
+_QUOTE_ There is much pleasure to be gained from useless knowledge. -- Bertrand Russell
+_QUOTE_ Failure is simply the opportunity to begin again, this time more intelligently.  -- Henry Ford
+_QUOTE_ Common sense is not so common.  -- Voltaire
+_QUOTE_ Any man who reads too much and uses his own brain too little falls into lazy habits of thinking. -- Albert Einstein
+_QUOTE_ Intellectuals solve problems, geniuses prevent them. -- Albert Einstein
+_QUOTE_ An intelligent man is sometimes forced to be drunk to spend time with his fools. -- Ernest Hemingway
+_QUOTE_ I'm not offended by all the dumb blonde jokes because I know I'm not dumb... and I also know that I'm not blonde. -- Dolly Parton
+_QUOTE_ To the man who only has a hammer, everything he encounters begins to look like a nail. -- Abraham Maslow
+_QUOTE_ We are what we repeatedly do; excellence, then, is not an act but a habit. -- Aristotle
+_QUOTE_ We’ve heard that a million monkeys at a million keyboards could produce the complete works of Shakespeare; now, thanks to the Internet, we know that is not true. -- Robert Wilensky
+_QUOTE_ Laughing at our mistakes can lengthen our own life. Laughing at someone else’s can shorten it. -- Cullen Hightower
+_QUOTE_ It is the mark of an educated mind to be able to entertain a thought without accepting it. -- Aristotle
+_QUOTE_ I have made this letter longer than usual because I lack the time to make it shorter. -- Blaise Pascal
+_QUOTE_ Don’t ever wrestle with a pig. You’ll both get dirty, but the pig will enjoy it. -- Cale Yarborough
+_QUOTE_ I am patient with stupidity but not with those who are proud of it. -- Edith Sitwell
+_QUOTE_ The cure for boredom is curiosity. There is no cure for curiosity. -- Ellen Parr
+_QUOTE_ When a person can no longer laugh at himself, it is time for others to laugh at him. -- Thomas Szasz
+_QUOTE_ Moral indignation is jealousy with a halo. -- H. G. Wells
+_QUOTE_ The fundamental cause of trouble in the world is that the stupid are cocksure while the intelligent are full of doubt. -- Bertrand Russell
+_QUOTE_ Don't be so humble - you are not that great. -- Golda Meir
+_QUOTE_ His ignorance is encyclopedic -- Abba Eban
+_QUOTE_ Give me chastity and continence, but not yet. -- Saint Augustine
+_QUOTE_ This book fills a much-needed gap. -- Moses Hadas
+_QUOTE_ Each problem that I solved became a rule which served afterwards to solve other problems. -- Rene Descartes
+_QUOTE_ The only way to get rid of a temptation is to yield to it."-- Oscar Wilde
+_QUOTE_ Don't stay in bed, unless you can make money in bed. -- George Burns
+_QUOTE_ The use of COBOL cripples the mind; its teaching should, therefore, be regarded as a criminal offense. -- Edsgar Dijkstra
+_QUOTE_ C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do, it blows away your whole leg. -- Bjarne Stroustrup
+_QUOTE_ Problems worthy of attack prove their worth by fighting back. -- Paul Erdos
+_QUOTE_ Against stupidity, the gods themselves contend in vain. -- Friedrich von Schiller
+_QUOTE_ Never interrupt your enemy when he is making a mistake. -- Napoleon Bonaparte
+_MOVIE_ "Strange women lying in ponds distributing swords is no basis for a system of government. Supreme executive power derives from a mandate from the masses, not from some farcical aquatic ceremony." — Dennis the Peasant, Monty Python and the Holy Grail
+_MOVIE_ "Oh dear!" -- C-3PO
+_MOVIE_ "Oh my!" -- C-3PO
+_MOVIE_ "I feel so...helpless." -- C-3PO
+_MOVIE_ "Fear! Fear attracts the fearful...fear is my ally." -- Darth Maul
+_MOVIE_ "Unga bunga binga inga binga binga bunga" -- Bugs Bunny
+_MOVIE_ "You must join me, Obi-Wan, and together, we will destroy the Sith!" -- Count Dooku
+_MOVIE_ "Twice the pride...double the fall." -- Count Dooku
+_MOVIE_ "Three rings for the Elven kings under the sky, seven for the Dwarf lords in their halls of stone, nine for the mortal men doomed to die, one for the Dark Lord on his dark throne, in the land of Mordor where the shadows lie. One ring to rule them all, one ring to find them, one ring the bring them all, and in the darkness bind them. In the land of Mordor where the shadows lie." -LOTR
+_MOVIE_ "I'm sorry, Dave. I'm afraid I can't do that." -- HAL, 2001: A Space Odyssey
+_MOVIE_ "Spock. This child is about to wipe out every living thing on Earth. Now, what do you suggest we do….spank it?" — Dr. McCoy, Star Trek: The Motion Picture
+_MOVIE_ "With great power there must also come — great responsibility."  – Amazing Fantasy #15 (August 1962)
+_MOVIE_ "If you can't take a little bloody nose, maybe you oughtta go back home and crawl under your bed. It's not safe out here. It's wondrous, with treasures to satiate desires both subtle and gross; but it's not for the timid." — Q, Star Trek: The Next Generation "Q Who?"
+_MOVIE_ "If real is what you can feel, smell, taste and see, then 'real' is simply electrical signals interpreted by your brain." -- Morpheus
+_MOVIE_ "Do you believe that my being stronger or faster has anything to do with my muscles in this place?" -- Morpheus
+_MOVIE_ "Come on! Stop trying to hit me and hit me!" -- Morpheus
+_MOVIE_ "I have failed you Anakin, I have failed you." -- Obi-Wan Kenobi
+_MOVIE_ "Use the force Luke!" -- Obi-Wan Kenobi
+_MOVIE_ "The body cannot live without the mind." -- Morpheus
+_MOVIE_ "Five card stud, nothing wild. And the sky's the limit" — Captain Jean Luc Picard, uttering the last line of the series, Star Trek: The Next Generation "All Good Things…"
+_MOVIE_ "If you think that by threatening me you can get me to do what you want… Well, that's where you're right. But – and I am only saying that because I care – there's a lot of decaffeinated brands on the market that are just as tasty as the real thing." -- Chris Knight, Real Genius
+_MOVIE_ "We're all very different people. We're not Watusi. We're not Spartans. We're Americans, with a capital ‘A', huh? You know what that means? Do ya? That means that our forefathers were kicked out of every decent country in the world. We are the wretched refuse. We're the underdog." -- John Winger, Stripes
+_MOVIE_ "If I'm not back in five minutes, just wait longer." -- Ace Ventura, Ace ventura, Pet Detective
+_MOVIE_ "I'm going to give you a little advice. There's a force in the universe that makes things happen. And all you have to do is get in touch with it, stop thinking, let things happen, and be the ball." -- Ty Webb, Caddyshack
+_MOVIE_ WE APOLOGIZE FOR THE INCONVENIENCE – God (Douglas Adams), So Long, and Thanks for All the Fish
+_MOVIE_ "Some days, you just can't get rid of a bomb!" -- Adam West, Batman & Robin
+_MOVIE_ "Bill, strange things are afoot at the Circle K." -- Ted, Bill & Ted's Excellent Adventure
+_MOVIE_ "Invention, my dear friends, is 93% perspiration, 6% electricity, 4% evaporation, and 2% butterscotch ripple." -- Willy Wonka, Willy Wonka & the Chocolate Factory
+_MOVIE_ "Didja ever look at a dollar bill, man? There's some spooky shit goin' on there. And it's green too." -- Slater, Dazed and Confused
+_MOVIE_ "Alright, alright alright." -- Wooderson, Dazed and Confused
+_MOVIE_ "Gee, Brain, what do you want to do tonight?" -- Pinky
+_MOVIE_ "NARF!" -- Pinky
+_MOVIE_ "I'm strong to the finish when i eats me spinach i Popeye the sailor man! toot toot (pipe)" -- Popeye
+_MOVIE_ "Help me, Obi-Wan Kenobi; you're my only hope." -- Princess Leia
+_MOVIE_ "So this is how Liberty dies...with thunderous applause." -- Queen Amidala
+_MOVIE_ "When you have eliminated the impossible, whatever remains, however improbable, must be the truth" -- Sherlock Holmes
+_MOVIE_ "Noo! Not Anakin!" -- Queen Amidala
+_MOVIE_ "Now, young Skywalker... you will die." -- The Emperor
+_MOVIE_ "Dodge This!!" -- Trinity
+_MOVIE_ "Hokey religions and ancient weapons are no match for a good blaster at your side, kid" -- Han Solo
+_MOVIE_ "The alpha and the omega. Death and rebirth. And, as you die, so will I be reborn." -- Skeletor
+_MOVIE_ "Heya, Tom', it's Bob from the office down the hall. Good to see you, buddy; how've you been? Things have been alright for me except that I'm a zombie now. I really wish you'd let us in." Jonothan Coulton, Re: Your Brains
+_MOVIE_ "Never argue with the data." -- Sheen, Jimmy Neutron
+_MOVIE_ "Oooh right, it's actually quite a funny story once you get past all the tragic elements and the over-riding sense of doom." -- Duckman (Jason Alexander)
+_MOVIE_ "Fantastic!" -- The Doctor (Christopher Eccleston), Doctor Who
+_MOVIE_ "I must not fear. / Fear is the mind-killer. / Fear is the little-death that brings total obliteration. / I will face my fear. / I will permit it to pass over me and through me. / And when it has gone past I will turn the inner eye to see its path. / Where the fear has gone there will be nothing. / Only I will remain." -- Bene Gesserit Litany Against Fear, Dune
+_MOVIE_ "This is the way society functions. Aren't you a part of society?" -- Kramer, Seinfeld
+_MOVIE_ "Okay. You people sit tight, hold the fort and keep the home fires burning. And if we're not back by dawn… call the president." -- Jack Burton, Big Trouble in Little China
+_MOVIE_ "No matter where you go, there you are. " -- Buckaroo Banzai, Buckaroo Banzai Across the Eighth Dimension
+_MOVIE_ "Do you know of the Klingon proverb that tells us revenge is a dish that is best served cold? It is very cold in space." -Khan, ST:TWOK
+_MOVIE_ "Ray, if someone asks you if you're a god, you say YES!" -- Winston, Ghostbusters
+_MOVIE_ "Greetings, programs!" -Flynn, TRON
+_MOVIE_ "I guess you picked the wrong god-damned rec room to break into, didn't you?!" -Burt, Tremors
+_MOVIE_ "I find your lack of faith disturbing." -Darth Vader, Star Wars
+_MOVIE_ "Hokey religions and ancient weapons are no substitute for a good blaster at your side, kid." -Han Solo, Star Wars
+_MOVIE_ "Try not. Do, or do not. There is no try." -- Yoda, The Empire Strikes Back
+_MOVIE_ "It's a moral imperative." -- Chris Knight, Real Genuis
+_MOVIE_ "Talk with your mouth full / bite the hand that feeds you / bite off more than you can chew / dare to be stupid" -- Weird AL "dare to be stupid."
+_MOVIE_ "Well, let's say this Twinkie represents the normal amount of psychokinetic energy in the New York area. Based on this morning's reading, it would be a Twinkie thirty-five feet long, weighing approximately six hundred pounds." -- Egon, Ghostbusters
+_MOVIE_ "This episode was BADLY written!" -Gwen, Galaxy Quest
+_MOVIE_ "Worst. Episode. Ever." -- Comic Book Guy, The Simpsons
+_MOVIE_ "Goonies never say die." -Mike, The Goonies
+_MOVIE_ "Nothing shocks me–I'm a scientist." -- Indiana Jones, Indiana Jones and the Temple of Doom
+_MOVIE_ "Bright light! Bright light!" -- Gremlins
+_MOVIE_ "The Road goes ever on and on/Down from the door where it began/Now far ahead the Road has gone/And I must follow, if I can/Pursuing it with eager feet/Until it joins some larger way/Where many paths and errands meet/And whither then? I cannot say." -- J.R.R. Tolkien, Lord of the Rings
+_MOVIE_ "Human sacrifice, dogs and cats living together… mass hysteria!" -- Dr. Peter Venkman, Ghostbusters
+_MOVIE_ "If we knew what it was we were doing, it would not be called research, would it?" -- Albert Einstein
+_MOVIE_ "Wait a minute, Doc. Ah… Are you telling me you built a time machine… out of a DeLorean?" -- Marty McFly, Back to the Future
+_MOVIE_ "Don't call me a mindless philosopher, you overweight blob of grease!" -- C3PO, Star Wars
+_MOVIE_ "I'd just as soon kiss a wookiee!" -- Princess Leia, The Empire Strikes Back
+_MOVIE_ "But one thing's sure: Inspector Clay is dead, murdered, and somebody's responsible." -- Detective, Plan 9 from Outer Space
+_MOVIE_ "I know kung fu." -- Neo, The Matrix
+_MOVIE_ "This is your receipt for your husband… and this is my receipt for your receipt." -- Officer, Brazil
+_MOVIE_ "Your soul-suckin' days are over, amigo!" -- Elvis, Bubba Ho-Tep
+_MOVIE_ "I don't believe there's a power in the ‘verse that can stop Kaylee from being cheerful. Sometimes you just wanna duct-tape her mouth and dump her in the hold for a month." -- Malcolm Reynolds, Firefly (episode: "Serenity" (pilot))
+_MOVIE_ "Would you say I have a plethora of piñatas?" -- El Guapo, ¡Three Amigos!
+_MOVIE_ "Never go in against a Sicilian when death is on the line!" Vizzini, The Princess Bride
+_MOVIE_ "There is no Earthly way of knowing… which direction we are going. There is no knowing where we're rowing, or which way the river's flowing. Is it raining? Is it snowing? Is a hurricane a'blowing? Not a speck of light is showing so the danger much be growing. Are the fires of hell a'glowing? Is the grisley reaper mowing? YES! The danger must be growing for the rowers keep on rowing AND THEY'RE CERTAINLY NOT SHOWING ANY SIGNS THAT THEY ARE SLOWING!!" -- Willy Wonka, Willy Wonka & the Chocolate Factory
+_MOVIE_ "Time…to die." -- Roy Batty, Blade Runner
+_MOVIE_ "Now I am become Death, the destroyer of worlds" J. Robert Oppenheimer
+_MOVIE_ "Check, please." -- Lone Starr & Barf, Spaceballs
+_MOVIE_ "So say we all." -- Battlestar Galactica
+_MOVIE_ "After very careful consideration, sir, I've come to the conclusion that your new defense system sucks." -- General Beringer, WarGames.
+_MOVIE_ "I am a leaf on the wind, watch how I soar." -- Wash, Serenity
+_MOVIE_ "No matter what you hear in there, no matter how cruelly I beg you, no matter how terribly I may scream, do not open this door or you will undo everything I have worked for." -- Young Frankenstein
+_MOVIE_ "Ahh, a bear in his natural habitat: a Studebaker." Fozzie, The Muppet Movie
+_MOVIE_ "He's dead, Jim." McCoy, ST:TOS
+_MOVIE_ "Who's gonna turn down a Junior Mint? It's chocolate, it's peppermint – it's delicious!" -- Kramer, Seinfeld
+_MOVIE_ "Bring out your dead." Monty Python and the Holy Grail
+_MOVIE_ "My name is Inigo Montoya. You killed my father. Prepare to die!" -Inigo, The Princess Bride
+_MOVIE_ "Why a duck? Why-a no chicken?" -- Chico Marx, Cocoanuts
+_MOVIE_ "Redrum." Danny, The Shining
+_MOVIE_ "Who knows what evil lurks in the hearts of men? The Shadow knows." -- announcer, The Shadow radio drama
+_MOVIE_ "We're going to need a bigger boat." -- Chief Brody, Jaws
+_MOVIE_ "Oooh, ahhh, that's how it always starts. Then later there's running and screaming." -- Ian Malcolm, The Lost World: Jurassic Park
+_MOVIE_ "Greetings, my friend. We are all interested in the future, for that is where you and I are going to spend the rest of our lives. And remember my friend, future events such as these will affect you in the future." Criswell, Plan 9 from Outer Space
+_MOVIE_ "Gentlemen, you can't fight in here! This is the War Room!" -- President Merkin Muffley, Dr. Strangelove
+_MOVIE_ "These aren't the droids you're looking for." -- Obi-Wan, Star Wars
+_MOVIE_ "Take your stinking paws off me, you damn dirty ape!" -- Taylor, Planet of the Apes
+_MOVIE_ "You maniacs! You blew it up! Oh, damn you! Damn you all to hell!" -- Taylor, Planet of the Apes
+_MOVIE_ "Klaatu barada nikto." The Day the Earth Stood Still
+_MOVIE_ "Monsters from the Id." -- Doc Ostrow, Forbidden Planet
+_MOVIE_ "ET phone home." -- ET
+_MOVIE_ "What… is the air-speed velocity of an unladen swallow?" -- Bridgekeeper, Monty Python and the Holy Grail
+_MOVIE_ "We thought you was a toad!" -- Delmar, O Brother Where Art Thou?
+_MOVIE_ "Face it tiger, you just hit the jackpot!" -- Mary Jane, Spider-Man.
+_MOVIE_ "You don't have to be a gun." -- Hogarth, The Iron Giant.
+_MOVIE_ "Danger Will Robinson! Danger!" -- Robbie the Robot, Lost in Space
+_MOVIE_ "Yeah, well. The Dude abides." -- The Dude, The Big Lebowski
+_MOVIE_ "All things serve the beam." various instances, The Dark Tower series
+_MOVIE_ "You can't fool me! There ain't no Sanity Clause!" -- Chico Marx, A Night at the Opera
+_MOVIE_ "Like the fella says, in Italy for 30 years under the Borgias they had warfare, terror, murder, and bloodshed, but they produced Michelangelo, Leonardo da Vinci, and the Renaissance. In Switzerland they had brotherly love – they had 500 years of democracy and peace, and what did that produce? The cuckoo clock." -- Harry Lime, The Third Man
+_MOVIE_ "And I said, I don't care if they lay me off either, because I told, I told Bill that if they move my desk one more time, then, then I'm, I'm quitting, I'm going to quit. And, and I told Don too, because they've moved my desk four times already this year, and I used to be over by the window, and I could see the squirrels, and they were married, but then, they switched from the Swingline to the Boston stapler, but I kept my Swingline stapler because it didn't bind up as much, and I kept the staples for the Swingline stapler and it's not okay because if they take my stapler then I'll set the building on fire…" -- Milton Waddams, Office Space
+_MOVIE_ "Michael, I did nothing. I did absolutely nothing, and it was everything that I thought it could be." -- Peter Gibbons, Office Space
+_MOVIE_ "Now I have a machine gun. Ho ho ho." -- John McClane (in writing), Die Hard
+_MOVIE_ "Gimme some sugar, baby." -- Ash, Army of Darkness
+_MOVIE_ "Well hello Mister Fancypants. Well, I've got news for you pal, you ain't leadin' but two things, right now: Jack and sh*t… and Jack left town." -- Ash, Army of Darkness
+_MOVIE_ "Kneel before Zod." -- Zod, Superman II
+_MOVIE_ "Shall we play a game?" -- Joshua, WarGames
+_MOVIE_ "Daddy would have gotten us Uzis." -- Samantha, Night of the Comet
+_MOVIE_ "It's 106 miles to Chicago, we've got a full tank of gas, half a pack of cigarettes, it's dark and we're wearing sunglasses." "Hit it!" -- Elwood, The Blues Brothers
+_MOVIE_ "Make it so" / "Engage" -- Captain Picard, Star Trek: The Next Generation
+_MOVIE_ "Ya Ta!" -- Hiro Nakamura, Heroes
+_MOVIE_ "End Of Line" -- The MCP, TRON
+_MOVIE_ "My mother always said, life was like a box of chocolates, you never know what you're gonna get" -- Forrest Gump
+_MOVIE_ "You talkin' to me? You talkin' to me? You talkin' to me? Then who the hell else are you talkin' to? You talkin' to me? Well, I'm the only one here. Who the fuck do you think you're talking to? Oh, yeah? Ok?" -- Travis Bickle - Taxi Driver.
+_MOVIE_ "You can't handle the truth." -- Col. Nathan R. Jessep - A Few Good Men.
+_MOVIE_ "May the force be with you" -- Star Wars.
+_MOVIE_ "There's no place like home" -- Dorothy, The Wizard of Oz.
+_MOVIE_ "I'll make him an offer he can't refuse" -- Don Corleone - The Godfather
+_MOVIE_ "Go ahead...make my day!" -- Clint Eastwood as Harry Callahan - Sudden Impact.
+_MOVIE_ "I know what you're thinking. "Did he fire six shots or only five? Well, to tell you the truth, in all this excitement I kind of lost track myself. But being as this is a .44 Magnum, the most powerful handgun in the world, and would blow your head clean off, you've got to ask yourself a question: Do I feel lucky? Well, do ya, punk?" -- Dirty Harry.
+_MOVIE_ "E.T. phone home"-- E.T. the Extraterrestrial
+_MOVIE_ "Show me the money" -- Jerry Maguire
+_MOVIE_ "A census taker once tried to test me. I ate his liver with some fava beans and a nice chianti" -- Hannibal Lecter - The Silence of the Lambs
+_MOVIE_ "My precious" -- Gollum, Lord of the Rings
+_MOVIE_ "The first rule of Fight Club is - you do not talk about Fight Club. The second rule of Fight Club is - you DO NOT talk about Fight Club." -- Tyler Durden - Fight Club
+_MOVIE_ "Yo, Adrian" -- Rocky Balboa - Rocky
+_MOVIE_ "Say hello to my Little Friend" -- Tony Montana - Scarface
+_MOVIE_ "I'm the king of the world" -- Jack Dawson in Titanic.
+_MOVIE_ "The horror, the horror" -- Col. Kurtz - Apocalypse Now.
+_MOVIE_ "We rob banks" -- Bonnie and Clyde.
+_MOVIE_ "Keep your friends close, but your enemies closer" -- Michael Corleone, The Godfather II
+_MOVIE_ "Houston, we have a problem" -- Jim Lovell, Apollo 13
+_MOVIE_ "Stupid is as stupid does" -- Forrest Gump
+_MOVIE_ "On my signal, unleash hell!" -- The Gladiator
+_MOVIE_ "THIS IS SPARTA!!!" -- Gerald Butler, 300
+_MOVIE_ "I see dead people" -- The Sixth Sense
+_MOVIE_ "Why so serious?" -- Heath Ledger, The Dark Knight
+_MOVIE_ "Get away from her you BITCH!" -- Sigourney Weaver, Aliens
+_MOVIE_ "Maniacal laugh! Maniacal laugh!" -- Tex Richman, The Muppets
+_MOVIE_ "I love the smell of napalm in the morning" -- Robert Duvall, Apocalypse Now
+_MOVIE_ "I can tell you with no ego, this is my finest sword. If on your journey you should encounter God, God will be cut" -- Sonny Chiba, Kill Bill.
+_MOVIE_ "Silly Caucasian girl likes to play with Samurai swords." -- Lucy Liu, Kill Bill.
+_MOVIE_ "Let me tell you something my friend. Hope is a dangerous thing. Hope can drive a man mad" -- Morgan Freeman, The Shawshank Redemption
+_MOVIE_ "Counselor! Come out, come out wherever you are!" -- Robert De Niro, Cape Fear
+_MOVIE_ "I am going to chop you into 42 pieces" -- Robert De Niro, Cape Fear
+_MOVIE_ "Ladies and gentlemen…I give you…Kong! The eight wonder of the world!" -- Jack Black, King Kong (2005)
+_MOVIE_ "Vanity, definitely my favorite sin" -- Al Pacino, The Devil's Advocate
+_MOVIE_ "Look at me…underestimated from day one. You'd never think I was a master of the universe, now would you?" -- Al Pacino, The Devil's Advocate
+_MOVIE_ "I'm in the dark here!" -- Al Pacino, Scent of a Woman
+_MOVIE_ "You're in no position to disagree with me boy. I got a loaded .45 here. You got pimples." -- Al Pacino, Scent of a Woman
+_MOVIE_ "I'm just a little anxious to get up there and whoop E.T.'s ass" -- Will Smith, Independence Day
+_MOVIE_ "You know you drive almost slow enough to drive miss Daisy" -- Will Smith, Bad Boys (1995)
+_MOVIE_ "Flied lice? It's fried rice, you plick" -- Kim Chan (Uncle Benny), Lethal Weapon 4
+_MOVIE_ "Louis, I think this is the beginning of a beautiful friendship" -- Humphrey Bogart, Casablanca
+_MOVIE_ "Get off my plane!" -- Harrison Ford, Air Force One
+_MOVIE_ "Don't blow smoke up my ass, it will ruin my autopsy" -- Anthony Hopkins, Meet Joe Black
+_MOVIE_ "The dress is for sale. I am not" -- Demi Moore, Indecent Proposal
+_MOVIE_ "You don't want the money?" -- Tilda Swinton as Karen Crowder in Michael Clayton
+_MOVIE_ "You're momma sure does care about your education, son." -- Forrest's school principal in Forrest Gump
+_MOVIE_ "Hey, STELLA!" -- Marlon Brando as Stanley Kowalksi - A Streetcar Named Desire
+_MOVIE_ "People come and go so quickly here" -- Wizard of Oz
+_MOVIE_ "I ain't got time to bleed." - Predator
+_MOVIE_ "My soul is as ready to escape as is my body." -- The Dark Knight Rises
+_MOVIE_ "No, I'm not afraid. I'm angry." -- The Dark Knight Rises
+_MOVIE_ "She's my sister AND my daughter! " -- Chinatown (1974)
+_MOVIE_ "You will be investigating thieves, misers, bullys, the most detestable collection of people that you will ever meet. My family." -- The Girl with the Dragon Tattoo
+_MOVIE_ "As far back as I can remember, I always wanted to be a gangster." -- Goodfellas (1990)
+_MOVIE_ "No idea is simple when you need to plant it in somebody elses mind." -- Inception (2010)
+_MOVIE_ "Be what? Be real?" -- Morpheus, The Matrix
+_MOVIE_ "It's not the years, honey, it's the mileage." -- Indiana Jones, Raiders of the Lost Ark (1981)
+_MOVIE_ "Heeere's Johnny! " -- The Shining (1980)
+_MOVIE_ "Keaton always said, "I don't believe in God, but I'm afraid of him." Well I believe in God, and the only thing that scares me is Keyser Soze." -- The Usual Suspects (1995)
+_MOVIE_ "If anything in this life is certain, if history has taught us anything, it is that you can kill anyone. " -- Michael Corleone, The Godfather Part 2
+_MOVIE_ "Whenever we needed money, we'd rob the airport. To us, it was better than Citibank." -- Goodfellas
+_MOVIE_ "Dream within a dream, ha? I'm impressed. But in my dream you play by my rules." -- Inception
+_MOVIE_ "Think about it, Ariadne. How did you get here? Where are you right now?" -- Inception
+_MOVIE_ "We all have orders, and we have to follow 'em. That supersedes everything, including your mothers." -- Saving Private Ryan
+_MOVIE_ "No. Try not. Do or do not. There is no try." -- Yoda
+_MOVIE_ "You must unlearn what you have learned." -- Yoda
+_MOVIE_ "Go into exile I must...failed I have." -- Yoda
+_MOVIE_ "You mean the secret password is Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch?" -- Barbarella (it's an UK city!)
+_CONFIRM_ Are you sure?
+_CONFIRM_ Are you ok with this?
+_CONFIRM_ Do you want to continue?
+_CONFIRM_ Completely sure?
+_CONFIRM_ Think twice then continue...
+_CONFIRM_ Don't blame me later... continue?
+_AOG_ ¿Tú sabes lo que es Fase RMS?
+_AOG_ A ver, ¿quién está operando? ¿tú o yo?
+_AOG_ Yo operé estas antenas en el ATF
+_AOG_ ¿Llamamos o no llamamos? Se va a enojar
+_AOG_ Hay una ley que te protege
+_AOG_ Hazte un chequeo
+_AOG_ El operador es el que tiene el conocimiento más completo de ALMA
+_AOG_ Diganle que se bañe
+_AOG_ Es que nadie nos ha hecho un parelé
+_AOG_ Ellos están casados, yo no
+_AOG_ Yo no trabajo, la verdad es que he estado sentado acá 10 horas mirando el ratón
+_AOG_ Es que nevó más de dos horas  (1h59m:58seg)
+_AOG_ ¿Y cuándo vamos a ir a las termas?
+_AOG_ ¿Y porque no creai el ticket voh?
+_AOG_ Es que no puede haber más de un astrónomo en la consola
+_AOG_ No he podido ir ni al baño
+_AOG_ ¡tá listo!
+_AOG_ Yo cuando llegué a ALMA me dijeron que iba a ser jefe
+_AOG_ Ya se tomó las consolas Toledo
+_AOG_ Llamen a safety
+_AOG_ No era una hora de colación no más?
+_AOG_ Cagó el ACA
+_AOG_ Ahora funciona el ACA
+_AOG_ Cagó de nuevo el ACA
+_AOG_ Pero esa antena no había que usarla
+_AOG_ ¿Esa antena te la entregó el coordinador?
+_AOG_ Yo creo que se enfermó, no va a llegar
+_AOG_ ¿fumigaron hoy?
+_AOG_ pero el Query del Mockup dice que se puede usar...
+_AOG_ Ya se encerró en su oficina, no lo saca ni Emilio de ahí
+_AOG_ Es muy tarde pa llamar a computing?
+_AOG_ Es muy tarde pa llamar a Lorenzo? Canal 6...
+_AOG_ Llama no mas, esto es grave
+_AOG_ Se me olvidó  pedir la colación
+_AOG_ Se me olvidó ir a buscar la colación, podí  traérmela tú?
+_AOG_ ¿me podí mirar la consola?  vuelvo al tiro
+_AOG_ voy a hacer una llamada y vuelvo
+_AOG_ El NT no sabe nada de ACS
+_AOG_ Pa qué comprai postre, si sodexo hace unos mas ricos y gratis
+_AOG_ Vuelvo altiro, estoy con sodexitis
+_AOG_ Vuelvo altiro, estoy con newrestitis
+_AOG_ Usa el Mockup te dicen
+_AOG_ El FSR va a estar listo en  una hora, si todo sale bien
+_AOG_ ¿y él quién es?
+_AOG_ ¿y por qué está operando? ...pasa que  están grabando un documental
+_AOG_ Lo que pasa es que ustedes no saben lo que es el amor
+_AOG_ (Ya se pusieron creativos )
+_AOG_ ¿Y los JIRAS ya están hechos?
+_AOG_ No tengo idea, están trabajando los japoneses
+_AOG_ ¿no te devolvió la antena?  yo a él lo vi  almorzando en el casino
+_AOG_ ¿de dónde quieren que saque más antenas?
+_AOG_ Error Invoking an Observing Mode
+_AOG_ Correlator resource conflict
+_AOG_ Python exception
+_AOG_ Es que  con lo que ganan Uds  eso no debería ser problema
+_AOG_ Yo gano entre 2 y 3 Danilos
+_AOG_ Baaaalls! balls!
+_AOG_ ¿querí combos? ¡vamos pa afuera!
+_AOG_ Déjate de pegarme en las patas Emiliano
+_AOG_ Cabros: ¿tan malo es mi inglés?
+_AOG_ Si bajan a San Pedro la alcoholemia es obligatoria.
+_AOG_ Si la mina no de pesca a los 15 minutos, no vale la pena
+_AOG_ ¿ahhh? ¿ahh? no caché
+_AOG_ Tanto te importa!!!???/ . ah?
+_AOG_ Scroll up  scroll up! stop! scroll down  scroll up again!...
+_AOG_ Ahhh!!!... se me olvidó  (again!)
+_AOG_ No funciona el project tracker  llámate a IT
+_AOG_ Pero si el Dashboard dice que está buena!
+_AOG_ ¿Está actualizado el Dashboard?
+_AOG_ ¿Vieron el mail de Carrillo?
+_AOG_ ¿Quién es Danilo?
+_AOG_ ¡Está en las News!
+_AOG_ Ojo... lo dejo andando Shaman
+_AOG_ Ojo  Lopez anda creativo
+_AOG_ f ....s ....r ..       f....s....r .    f...s...r..!   fsr!  FSR!  FSR!!!
+_AOG_ Shaman dijo que no necesitabamos hacer un FSR pa partir .
+_AOG_ Do you want to create a ticket my dear operator?  . NO!
+_AOG_ Red rocket!
+_AOG_ I really don't know how to say this, I don't want to be mean, can you wash your feet? please?
+_AOG_ Eres toda una MILF!
+_AOG_ Yo quiero que Piñera me firme mi libro de Piñericosas!
+_AOG_ Everything is awesome!!!!! Everything is awesome!!!!!
+_AOG_ Doon't stooop .. beliiiieeving!!!
+_AOG_ Cualquier cosa estoy en la pecera
+_AOG_ "Ven y dime todas esas cosaaas, invitame a sentarme junto a ti..."
+_AOG_ Créate un arreglo para banda 7, vamos a correr un foco  (luego de crearlo y partir el foco) Sabis que mas? Mejor uno de banda 6 destruye el arreglo .  ¿por qué te demoras tanto?
+_AOG_ Seré tu amante Dandilo, Dandilo
+_AOG_ ¿a que hora llegará un operador con más experiencia?
+_AOG_ ¿Carrillo es tu jefe ahora?
+_AOG_ Despiértalo no más, aunque se enoje.
+_AOG_ Tengo hambre!!
+_AOG_ piel es piel
+_AOG_ no alimente al operador
+_AOG_ DESPIERTA!!
+_AOG_ Jueves 4:30 am :FSR no importa porque... I'm going down down down
+_AOG_ "no me estay escuchando"
+_ALMA_ ¿Queee? ¿Tres días?
+_ALMA_ Pereza y desidia
+_ALMA_ Me tuve que venir caminando
+_ALMA_ Ese poster es de mal gusto
+_ALMA_ Es muy bizarro hasta para J
+_ALMA_ Lo único bueno que puedo decir de ti es que jamás me has decepcionado
+_ALMA_ Me refuso!
+_ALMA_ -- Era un angel? -- No, era un negro
+_ALMA_ Shaman compliant
+_ALMA_ Es INMINENTE un FSR ahora!
+_ALMA_ Me encanta mirar paquetes
+_ALMA_ ... está en la twiki ...
+_ALMA_ Me va a doler cuando se vaya
+_ALMA_ Help, Socorro
+_ALMA_ El resto, no me importa
+_ALMA_ Lo más cercano a una novela que he leído es Mein Kampf
+_ALMA_ ¿Cuánto vas a demorar si eso es fácil?
+_ALMA_ ... y esa música porno? (Duke Ellington de fondo)
+_ALMA_ Me pegué las tremendas puñaladas con la Valeria Mazza
+_ALMA_ Amigos? En mi computador tengo todo lo que necesito
+_ALMA_ A friendly reminder: Haz tu pega!
+_ALMA_ Ah, fue el coleguita
+_ALMA_ Dile que, estamos en regression test así que cualquier cosa puede pasar
+_ALMA_ Esas decisiones no están dentro de tu rango de sueldo
+_ALMA_ No me parezco al compadre Moncho!
+_ALMA_ Solo necesito sexo, alcohol y mujeres
+_ALMA_ Te vas a comer eso?
+_ALMA_ Cuando los zombies ataquen yo me voy a reir de ustedes
+_ALMA_ No tengo traje de baño para él
+_ALMA_ ... y dicen que come guagas ...
+_ALMA_ Si vuelvo a venirme caminando replantearía la utilidad de mi existencia
+_ALMA_ Lo unico que voy a almorzar es un polvo terapéutico
+_ALMA_ No proyectes en mí tus traumas personales
+_ALMA_ Era un amigo? No, un operator
+_ALMA_ -- Colacion para Antonio Soto?  -- Acaso no puede pronunciar SCHEMRL??
+_ALMA_ No era un artista, era un cantante
+_ALMA_ No estaba T. en este turno, así que está claro quién se la comió...
+_ALMA_ A mi no me importa que me digan idiota
+_ALMA_ Yo no soy duro, soy suave
+_ALMA_ pq siempre tu nivel de degenramiento esta 100 veces más arriba que el mio?
+_ALMA_ Me gustaria ser com Keith Richards y vestirme como mujer
+_ALMA_ Necesitas a tu maestro a tu lado? - Si, lo necesito atulado
+_ALMA_ No le gustaban los paquetes grandes? - No, no era como tú
+_ALMA_ Voy a almorzar con mis amigos... y tú no eres mi amigo
+_ALMA_ El se la pone solo
+_ALMA_ Please never say: "Déjame saber cuando" (let me know when)
+_ALMA_ Please never say: "Te llamo para atrás" (I'll call you back)
+_ALMA_ Please never say: "Volver para atrás" (come back)
+_ALMA_ Please never say: "Dónde estacionaste la troca" (where did you park the truck)
+_ALMA_ Please never say: "Me siento confidente" (I feel confident)
+_ALMA_ Please never say: "Llevare la ropa a la Washeteria"
+_ALMA_ Please never say: "Es un proyecto ancillario"
+_ALMA_ Que es lo que querias ver? -- Tu Zenoss
+_ALMA_ Con pelito no hay delito (Someone talking about code too much fresh)
+_ALMA_ Alguien lo tiene abierto, y no soy yo
+_ALMA_ Ritmos circadianos? no, yo no creo en esas cosas
+_ALMA_ Toby es el que más ha demorado en irse
+_ALMA_ Yo le digo Coronta de manzana
+_ALMA_ Una vez descartado lo imposible, lo que quede, por improbable que parezca, debe ser Manuel
+_ALMA_ Lo que pasa es que al Sepu le falta la rebeldía que a mí me sobra
+_ALMA_ Sebastián: que tu estés acá, me reconforta
+_ALMA_ ICT-3346: "... a line or curve for TDM, and in FDM they resemble hanging bananas ..." (Radio-monkeys)
+_ALMA_ PRTSIR-3415: "...  we going to make a local APH to FEPSU..." (Untranslatable)
+_ALMA_ ICT-5003: "My message from 2 days ago should be disregarded as it was a user error... https://www.youtube.com/watch?v=d_TWafNlSMs" (Self bullying)
+_ALMA_ ICT-2723: "right you are, it cannot be MasterClock. But still, for now making sure that the timeSynchCorr is executed always after bringing CORR operational should save so many lives." (May the fringes be with you)
+_ALMA_ No eran rubios y de ojos azules, eran deformaciones genéticas por los químicos de la fruta
+_ALMA_ No lo vi porque estaba absorto en Johnny
+_ALMA_ Hay muchas sextas religiosas
+_ALMA_ Está lleno de minas ricas, pero nunca supe si eran hombres o mujeres
+_ALMA_ Chicos, me da hambre verlos
+_ALMA_ El me hace sentir como Whitney Houston
+_ALMA_ Si hasta Arturo entendio la talla
+_ALMA_ Yo soy el mas capo ... ronga
+_ALMA_ PRTSIR-6052: "This was because, someone, to "disable" the QuickLookUI patch...  I will also send an e-mail to software group in order for things like this not to be done again"
+_ALMA_ ICT-4492: "Jesus, you are right"
+_ALMA_ ICT-5433 "... like the TPP is hemorrhaging memory"
+_ALMA_ ICT-5433 "... I do not know who/what kibana is?"
+_ALMA_ PRTSIR-7382 "... DV16 container crushed (went to shutdown)"
+_ALMA_ Necesito un hombre, joven, atletico y fornido
+_ALMA_ Te gusta el varoneil?
+_ALMA_ Yo me la comi entera!
+_ALMA_ - Voy al baño.  - Te acompaño?
+_ALMA_ Los éxitos son de Software, los cagazos tienen responsables
+_ALMA_ Yo vengo al choque!
+_ALMA_ Me comi un Mr Johnny con palta
+_ALMA_ El primer turno ya me metio la puntita, ahora da igual
+_ALMA_ Ya desenfundaste tu arma, ahora disparame
+_ALMA_ Mi problema son las tentaciones como Avarias y Guagüito...
+_ALMA_ No tolero a la gente que suspira
+_ALMA_ Mejor me comeré mi tomacito
+_ALMA_ -Hay un script que hace eso, pero es bien penca. -Ese lo hice yo...
+_ALMA_ -Wawito, wena! Me hiciste conocer un nuevo mundo... -que pasóooooo?
+_ALMA_ -el CORRELATOR me habló, me dijo cosas...
+_ALMA_ Me acordé de ti, vi una burra preñada
+_ALMA_ Esta bien si vienes a romperla, pero está mal que vengas a que te la rompan
+_ALMA_ Flower molester
+_ALMA_ Me comería un Vitoco con papas fritas
+_ALMA_ ... but who am I after all?
+_ALMA_ Mejor me comere mi Tomasito
+_ALMA_ -Pero la milanesa y la escalopa kaiser no son lo mismo. -Pero son 'kaiser' lo mismo
+_ALMA_ Y usted que ya la chupó...
+_ALMA_ Yo todavía extraño a M Parra...
+_ALMA_ Mis bolsillos son touch
+_ALMA_ "De verdad, uno es lo que come..." -dijo mientras se tomaba una agüita perra-
+_ALMA_ Si el problema no es ese... entonces es otra cosa.
+_ALMA_ Si sacas antenas del central array, pierdes sensibilidad en el hoyo...
+_BAD-TRANSLATION_ Fixear
+_BAD-TRANSLATION_ taguear
+_BAD-TRANSLATION_ comitiar
+_BAD-TRANSLATION_ deletar
+_BAD-TRANSLATION_ chequear
+_BAD-TRANSLATION_ patchear
+_BAD-TRANSLATION_ randomico
+_BAD-TRANSLATION_ eskipiar
+_BAD-TRANSLATION_ codear
+_BAD-TRANSLATION_ lupear
+_BAD-TRANSLATION_ bakapear
+_BAD-TRANSLATION_ rebutear
+_BAD-TRANSLATION_ loguear
+_BAD-TRANSLATION_ restartear
+_BAD-TRANSLATION_ forguardear
+_BAD-TRANSLATION_ mergear
+_BAD-TRANSLATION_ backportear
+_BAD-TRANSLATION_ targezetear
+_BAD-TRANSLATION_ gezipear
+_BAD-TRANSLATION_ bezipear
+_BAD-TRANSLATION_ arsynquear
+_BAD-TRANSLATION_ pinguear
+_BAD-TRANSLATION_ pestripear
+_BAD-TRANSLATION_ deployar
+_BAD-TRANSLATION_ andeployar
+_BAD-TRANSLATION_ mockear
+_BAD-TRANSLATION_ tareo
+_BAD-TRANSLATION_ deprecar
+_BAD-TRANSLATION_ lockeo
+_BAD-TRANSLATION_ esplitear
+_BAD-TRANSLATION_ trabelshutear
+_BAD-TRANSLATION_ logcito
+_BAD-TRANSLATION_ pumpear (las antenas)
+_BAD-TRANSLATION_ crashear
+_BAD-TRANSLATION_ tunear
+_BAD-TRANSLATION_ isolado
+_BAD-TRANSLATION_ buildear
+_BAD-TRANSLATION_ conformancia
+_BAD-TRANSLATION_ defectear
+_BAD-TRANSLATION_ dropear
+_BAD-TRANSLATION_ paniquear
+_BAD-TRANSLATION_ plotear
+_BAD-TRANSLATION_ refusar
+_BAD-TRANSLATION_ atachar
+_BAD-TRANSLATION_ askear
+_BAD-TRANSLATION_ empowerear
+_BAD-TRANSLATION_ triguerear
+_BAD-TRANSLATION_ stallear
+_BAD-TRANSLATION_ spooleando
+_BAD-TRANSLATION_ pushearlo
+_BAD-TRANSLATION_ confidente
+_BAD-TRANSLATION_ esponsoreado
+_BAD-TRANSLATION_ fadear
+_BAD-TRANSLATION_ shadear
+_BAD-TRANSLATION_ responsivo
+_BAD-TRANSLATION_ circumventear
+_BAD-TRANSLATION_ utilería
+_BAD-TRANSLATION_ debunkear
+_BAD-TRANSLATION_ nukear
+_BAD-TRANSLATION_ dockear
+_BAD-TRANSLATION_ sumarizar
+_BAD-TRANSLATION_ rejecteo
+_BAD-TRANSLATION_ freeziado
+_BAD-TRANSLATION_ inyestar
+_BAD-TRANSLATION_ hookear
+_BAD-TRANSLATION_ driftear
+_BAD-TRANSLATION_ refactorear
+_BAD-TRANSLATION_ triagear
+_BAD-TRANSLATION_ valuable
+_BAD-TRANSLATION_ recreo
+_BAD-TRANSLATION_ crosschequear
+_BAD-TRANSLATION_ parchear
+_BAD-TRANSLATION_ destarear
+_BAD-TRANSLATION_ minutear
+_BAD-TRANSLATION_ alocar
+_BAD-TRANSLATION_ reprobar
+_BAD-TRANSLATION_ detachar
+_BAD-TRANSLATION_ recrear
+_BAD-TRANSLATION_ monitorizar
+_BAD-TRANSLATION_ matchea
+_BAD-TRANSLATION_ fluente
+_BAD-TRANSLATION_ reviendo
+_BAD-TRANSLATION_ ingestar
+_BAD-TRANSLATION_ colectamos
+_BAD-TRANSLATION_ esplaiciarlo
+_BAD-TRANSLATION_ estaquear
+_BAD-TRANSLATION_ reversar
+_BAD-TRANSLATION_ templatizado
+_BAD-TRANSLATION_ recapitularizar
+_BAD-TRANSLATION_ capabilidades
+_BAD-TRANSLATION_ apendear
+_BAD-TRANSLATION_ copypastear
+_BAD-TRANSLATION_ apendear
+_BAD-TRANSLATION_ killear
+_BAD-TRANSLATION_ abilidad
+_BAD-TRANSLATION_ queriable
+_BAD-TRANSLATION_ predictible
+_BAD-TRANSLATION_ divaguear
+_BAD-TRANSLATION_ ensurarse
+_BAD-TRANSLATION_ anestado
+_BAD-TRANSLATION_ parchean
+_BAD-TRANSLATION_ sobrebordó
+_BAD-TRANSLATION_ contribuidor
+_BAD-TRANSLATION_ filtrado out
+_BAD-TRANSLATION_ reconversar
+_BAD-TRANSLATION_ searchear
+_BAD-TRANSLATION_ mavenizar
+_BAD-TRANSLATION_ inyestar
+_BAD-TRANSLATION_ selectar
+_BAD-TRANSLATION_ FARea
+_BAD-TRANSLATION_ deliverar
+_BAD-TRANSLATION_ budgetear
+_BAD-TRANSLATION_ feasibilidad
+_BAD-CONCEPTS_ firewall del AOS
+_BAD-SPANISH_ apuntar
+_BAD-SPANISH_ retratar
+_BAD-SPANISH_ alocado
+_BAD-SPANISH_ repartir
+_BAD-SPANISH_ aplicante
+_BAD-SPANISH_ poleo
+_BAD-SPANISH_ aplicar
+_BAD-SPANISH_ sugestiones
+_BAD-SPANISH_ rehusar
+_BAD-SPANISH_ convincencia
+_BAD-SPANISH_ reportería
+_BAD-SPANISH_ bloqueante
+_BAD-SPANISH_ parpadeazos
+_BAD-SPANISH_ reprobar
+_BAD-SPANISH_ sortear
+_BAD-SPANISH_ popular
+_BAD-SPANISH_ rediscutir
+_BAD-SPANISH_ fundado
+_BAD-SPANISH_ absorbido
+_BAD-SPANISH_ coleccionar
+_BAD-SPANISH_ reganar
+_BAD-SPANISH_ resignar
+_BAD-SPANISH_ pedazo de hardware
+_BAD-SPANISH_ loguear fuera
+_BAD-SPANISH_ sumario
+_BAD-SPANISH_ introducete
+_BAD-SPANISH_ "Déjame saber cuando" (let me know when)
+_BAD-SPANISH_ "Te llamo para atrás" (I'll call you back)
+_BAD-SPANISH_ "Volver para atrás" (come back)
+_BAD-SPANISH_ "La troca" (the truck)
+_BAD-SPANISH_ "Me siento confidente” (I feel confident)
+_BAD-SPANISH_ "Llevare la ropa a la Washeteria"
+_BAD-SPANISH_ "Es un proyecto ancillario"
+_GOLDEN-JIRA_ ICT-3346: "... a line or curve for TDM, and in FDM they resemble hanging bananas ..."
+_GOLDEN-JIRA_ PRTSIR-3415: "... we going to make a local APH to FEPSU..."
+_GOLDEN-JIRA_ ICT-5003: "... My message from 2 days ago should be disregarded as it was a user error... https://www.youtube.com/watch?v=d_TWafNlSMs ... "
+_GOLDEN-JIRA_ ICT-2723: "... bringing CORR operational should save so many lives."
+_GOLDEN-JIRA_ PRTSIR-6052: "... This was because, someone, to "disable" the QuickLookUI patch..."
+_GOLDEN-JIRA_ ICT-4492: "... Jesus, you are right ..."
+_GOLDEN-JIRA_ ICT-5433 "... like the TPP is hemorrhaging memory ..."
+_GOLDEN-JIRA_ COMP-7004 "... TELCAL always crushed at the end ..."
+_GOLDEN-JIRA_ ICT-5433 "... I do not know who/what kibana is? ..."
+_GOLDEN-JIRA_ PRTSIR-7382 "... DV16 container crushed ..."
+_GOLDEN-JIRA_ ICT-4757 "... not producing WVR coefficients or T_sys when looking at the shutter is reasonable behaviour, I would think ..."
+_GOLDEN-JIRA_ PRTSIR-9459 "... pointing results = 0 ... too good to be real ..."
+_GOLDEN-JIRA_ ICT-7251 "... rejecting this ticket as a cosmic radiation bug ..."
+_GOLDEN-JIRA_ ICT-507 "... That said, my sympathy has its limits... "
+_GOLDEN-JIRA_ ICT-5179 "... I have no sympathy for people complaining about problems in this area ..."
+_GOLDEN-JIRA_ ICT-10777 "... BTW, I think we have a different understanding of the word 'Shamefully' ..."
+_GOLDEN-JIRA_ COMP-4664 "... (Safari on Mac) crushes when enter a keyword ..."
+_GOLDEN-JIRA_ ICT-11966 "...Tomas, You are a next generation bug finding machine! ... "
+_GOLDEN-JIRA_ ICT-11969 “...Theirs is a power far greater than mine.”
+_GOLDEN-JIRA_ APO-3637 "...please disregard this ticket. ISO/OSI lvl 8 problem"
+_GOLDEN-JIRA_ PRTSPR-33922 "...Please let me rest"
+_GOLDEN-JIRA_ ICT-12910 "...first time simulating under cycle6 software an kaboom!"
+_GOLDEN-JIRA_ SCCB-878 "... the c++ version is irrelevant to us ... gollum."
+_GOLDEN-JIRA_ SAFE-154 "...contact Calama airport and find out whether they think it is safe that dogs are allowed close to the runways"
+_GOLDEN-JIRA_ *all-time winner* El cerro de caca: https://jira.alma.cl/browse/OTHM-313
+_GOLDEN-SVN_ SVN log 206364: "Manuel idiot, revert the failure."
+_GOLDEN-SVN_ SVN log 205079: "nodes' Mickey Mouse removed!"
+_GOLDEN-SVN_ SVN log 181744: "Harmless for anything non-human, or near."
+_ALMA_ Y Tzu llego? No, no "Tzube"!
+_ALMA_ Que diferencia tiene la milanesa y la escalopa Kaiser? Ninguna, son "kaiser" lo mismo
