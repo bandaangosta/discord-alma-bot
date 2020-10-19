@@ -46,6 +46,10 @@ You will be asked to select the server where the bot should go.
 
 A log file is generated for inspection of events and errors. It defaults to `discord.log` located next to bot.py.
 
+### Memes
+
+Memes location can be set in `config.py`. It defaults to `memes` folder. Files must have `.jpg` and `.png` extension (lowercase).
+
 ### Deployment
 Bot is just a Python script. Just leave it running somewhere.   
 A simple way using Docker is proposed:   
