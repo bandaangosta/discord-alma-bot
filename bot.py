@@ -16,10 +16,11 @@ MEMES_PATH_TO_FOLDER = 'memes'
 # Setup logging
 logger = logging.getLogger('discord')
 logger.setLevel(logging.INFO)
-handler = RotatingFileHandler(filename=LOG_FILENAME, maxBytes=50000000, backupCount=10, encoding='utf-8')
+handler = RotatingFileHandler(filename=LOG_FILENAME, maxBytes=50000000, backupCount=5, encoding='utf-8')
 handler.setFormatter(logging.Formatter(LOG_FORMAT_BASE))
 logger.addHandler(handler)
 
+# Get token for bot
 try:
     with open("token.prv", "r") as f:
         TOKEN = f.readline()
@@ -44,7 +45,7 @@ async def on_command_error(ctx, error):
         if hasattr(ctx.command, 'on_error'):
             return
 
-        ignored = (commands.CommandNotFound, )
+        ignored = (commands.CommandOnCooldown, )
 
         # Allows us to check for original exceptions raised and sent to CommandInvokeError.
         # If nothing is found. We keep the exception passed to on_command_error.
@@ -54,8 +55,13 @@ async def on_command_error(ctx, error):
         if isinstance(error, ignored):
             return
 
+        if isinstance(error, commands.CommandNotFound):
+            await ctx.message.channel.send('You must give a valid command, my friend. Try !alma help')
+            logger.info('Wrong command {} by {}'.format(ctx.command.qualified_name, ctx.message.author.display_name))
+
         if isinstance(error, commands.DisabledCommand):
             await ctx.send(f'{ctx.command} has been disabled.')
+            logger.info(f'{ctx.command} has been disabled.')
 
         elif isinstance(error, commands.NoPrivateMessage):
             try:
@@ -72,21 +78,6 @@ async def on_command_error(ctx, error):
             # All other Errors not returned come here. And we can just logthe default TraceBack.
             logger.info('Ignoring exception in command {} by user {}:'.format(ctx.command, ctx.message.author.display_name))
             logger.info(''.join(traceback.format_exception(type(error), error, error.__traceback__)))
-
-# @client.event
-# async def on_command_error(ctx, error):
-#     # If command has local error handler, return
-#     if hasattr(ctx.command, 'on_error'):
-#         return
-
-#     # Get the original exception
-#     error = getattr(error, 'original', error)
-
-#     if isinstance(error, commands.CommandNotFound):
-#         await ctx.message.channel.send('You must give a valid command, my friend.')
-#         logger.info('Wrong command by {}'.format(ctx.message.author.display_name))
-#     else:
-#         logger.info('Some error happened')
 
 @client.event
 async def on_ready():
@@ -107,7 +98,7 @@ async def meme(ctx):
         logger.info('Sending meme {} requested by {}'.format(chosen_meme, ctx.message.author.display_name))
 
 @client.command(
-    brief="Show a geek phrase from ALMA history",
+    brief="Show a historical geek phrase from ALMA",
     help="I'll give you a notable phrase or similar said by a member of ALMA staff.\n" + \
           "For example, for Control Room madness, try !alma saygeek AOG \n" + \
           "Try !alma saygeek keys for all available categories."
