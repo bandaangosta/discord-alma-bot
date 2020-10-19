@@ -15,6 +15,7 @@ pip install typer
 '''
 
 import re
+import os
 import random
 
 class SayGeek(object):

@@ -102,5 +102,6 @@ settings.cfg
 *.log*
 
 /dev
+/memes
 
 token.prv

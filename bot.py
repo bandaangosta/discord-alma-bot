@@ -8,16 +8,13 @@ import random
 import traceback
 from logging.handlers import RotatingFileHandler
 from saygeek.saygeek import SayGeek
-
-LOG_FILENAME = 'discord.log'
-LOG_FORMAT_BASE = '%(asctime)s - %(name)s - %(levelname)s - %(filename)s:%(lineno)d:%(funcName)s() - %(message)s'
-MEMES_PATH_TO_FOLDER = 'memes'
+import config as cfg
 
 # Setup logging
 logger = logging.getLogger('discord')
 logger.setLevel(logging.INFO)
-handler = RotatingFileHandler(filename=LOG_FILENAME, maxBytes=50000000, backupCount=5, encoding='utf-8')
-handler.setFormatter(logging.Formatter(LOG_FORMAT_BASE))
+handler = RotatingFileHandler(filename=cfg.LOG_FILENAME, maxBytes=50000000, backupCount=5, encoding='utf-8')
+handler.setFormatter(logging.Formatter(cfg.LOG_FORMAT_BASE))
 logger.addHandler(handler)
 
 # Get token for bot
@@ -85,12 +82,12 @@ async def on_ready():
 
 @client.command(help="Show an ALMA meme. Pero con respeto ¯\_(ツ)_/¯")
 async def meme(ctx):
-    meme_list = glob.glob(os.path.join(MEMES_PATH_TO_FOLDER, '*.jpg')) + \
-        glob.glob(os.path.join(MEMES_PATH_TO_FOLDER, '*.png'))
+    meme_list = glob.glob(os.path.join(cfg.MEMES_PATH_TO_FOLDER, '*.jpg')) + \
+        glob.glob(os.path.join(cfg.MEMES_PATH_TO_FOLDER, '*.png'))
 
     if not meme_list:
         await ctx.message.channel.send('No meme was found. This is a real emergency. Contact a meme specialist.')
-        logger.info('Memes not found in folder {}'.format(MEMES_PATH_TO_FOLDER))
+        logger.info('Memes not found in folder {}'.format(cfg.MEMES_PATH_TO_FOLDER))
     else:
         random.seed(os.getrandom(10))
         chosen_meme = random.choice(meme_list)
