@@ -40,7 +40,7 @@ where KEY is any from the the following list:
     ¿no te devolvió la antena?  yo a él lo vi  almorzando en el casino
     
     !alma meme   
-    ![awesome ALMA meme](https://github.com/bandaangosta/discord-alma-bot/blob/main/img/IMG-20200529-WA0008.jpg)
+<img src="https://github.com/bandaangosta/discord-alma-bot/blob/main/img/IMG-20200529-WA0008.jpg" width="400">
     
 ### Authorization
 
