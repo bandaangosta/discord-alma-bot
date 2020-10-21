@@ -5,6 +5,8 @@ ALMA discord bot that says geek and historical staff phrases and sends ALMA meme
 
 ### Commands
 
+#### saygeek
+
     !alma saygeek KEY
 
 where KEY is any from the the following list:
@@ -23,7 +25,11 @@ where KEY is any from the the following list:
   * MOVIE
   * QUOTE
 
-Example:   
+#### meme
+
+    !alma meme
+
+### Examples
 
     !alma saygeek GOLDEN-JIRA
     [Notable tickets]:
@@ -33,8 +39,8 @@ Example:
     [Se dijo en el Control Room alguna vez]:
     ¿no te devolvió la antena?  yo a él lo vi  almorzando en el casino
     
-    !alma meme
-    <receive an awesome ALMA meme here>
+    !alma meme   
+    ![awesome ALMA meme](https://github.com/bandaangosta/discord-alma-bot/blob/main/img/IMG-20200529-WA0008.jpg)
     
 ### Authorization
 
