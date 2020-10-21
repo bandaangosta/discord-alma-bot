@@ -1,5 +1,5 @@
 # discord-alma-bot
-ALMA discord bot that says geek phrases and sends ALMA meme.
+ALMA discord bot that says geek and historical staff phrases and sends ALMA memes.
 
 `saygeek` is taken from [Python port of "official" ALMA saygeek application](https://github.com/bandaangosta/saygeek)
 
