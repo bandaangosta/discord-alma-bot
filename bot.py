@@ -113,7 +113,7 @@ async def saygeek(ctx, phrase_key: str = None):
             data = sg.random_phrase(phrase_key.upper())
             header = '[{}]:\n'.format(data['prefix']) if data['prefix'] else ''
             await ctx.send('{}{}'.format(header, data['phrase']))
-            logger.info('[{}] Phrase requested by {}'.format(phrase_key.upper(), ctx.message.author.display_name))
+            logger.info('[{}] Phrase requested by {} ({}...{})'.format(phrase_key.upper(), ctx.message.author.display_name, data['phrase'][:10], data['phrase'][-10:]))
         else:
             await ctx.send(msg_help)
 
