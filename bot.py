@@ -25,7 +25,7 @@ except FileNotFoundError:
     logger.info('File with bot token not found')
     raise
 
-client = commands.Bot(command_prefix = '!alma ')
+client = commands.Bot(command_prefix = cfg.COMMAND_PREFIX)
 
 @client.event
 async def on_command_error(ctx, error):
@@ -78,21 +78,43 @@ async def on_command_error(ctx, error):
 
 @client.event
 async def on_ready():
+    '''Create a log entry when client is initialized'''
     logger.info('We have logged in as {0.user}'.format(client))
 
-@client.command(help="Show an ALMA meme. Pero con respeto ¯\_(ツ)_/¯")
-async def meme(ctx):
+@client.command(
+    brief="Show an ALMA meme. Pero con respeto ¯\_(ツ)_/¯",
+    help="Show an ALMA meme. Pero con respeto ¯\_(ツ)_/¯\n" + \
+         "Defaults to give you a random meme. Add 'latest' for...well, you can guess what."
+)
+async def meme(ctx, option: str = None):
+    '''Send an ALMA meme'''
+
     meme_list = glob.glob(os.path.join(cfg.MEMES_PATH_TO_FOLDER, '*.jpg')) + \
         glob.glob(os.path.join(cfg.MEMES_PATH_TO_FOLDER, '*.png'))
 
     if not meme_list:
         await ctx.message.channel.send('No meme was found. This is a real emergency. Contact a meme specialist.')
-        logger.info('Memes not found in folder {}'.format(cfg.MEMES_PATH_TO_FOLDER))
+        logger.info('{}/#{} - Memes not found in folder {}'.format(ctx.message.guild.name, ctx.message.channel.name, cfg.MEMES_PATH_TO_FOLDER))
     else:
-        random.seed(os.getrandom(10))
-        chosen_meme = random.choice(meme_list)
+        if option is None or option == "random":
+            random.seed(os.getrandom(10))
+            chosen_meme = random.choice(meme_list)
+        elif option == 'latest':
+            meme_list.sort(key=os.path.getmtime)
+            chosen_meme = meme_list[-1]
+            logger.info('{}/#{} - Latest meme requested by {}'.format(
+                ctx.message.guild.name, ctx.message.channel.name, ctx.message.author.display_name)
+            )
+        else:
+            random.seed(os.getrandom(10))
+            chosen_meme = random.choice(meme_list)
+            await ctx.send(f'{option} is not a valid option. Just giving you a random meme so you don\'t leave empty handed.')
+            logger.info(f'Invalid {option} for command meme')
+
         await ctx.channel.send(file=discord.File(chosen_meme))
-        logger.info('Sending meme {} requested by {}'.format(chosen_meme, ctx.message.author.display_name))
+        logger.info('{}/#{} - Sending meme {} requested by {}'.format(
+            ctx.message.guild.name, ctx.message.channel.name, chosen_meme, ctx.message.author.display_name)
+        )
 
 @client.command(
     brief="Show a historical geek phrase from ALMA",
@@ -101,6 +123,8 @@ async def meme(ctx):
           "Try !alma saygeek keys for all available categories."
 )
 async def saygeek(ctx, phrase_key: str = None):
+    '''Send a phrase from a number of available categories'''
+
     sg = SayGeek('saygeek/saygeek.db')
     msg_help = 'Accepted keys are:\n{}\n\nExample: !alma saygeek ALMA'.format('\n'.join(sorted(sg.keys)))
 
@@ -113,7 +137,13 @@ async def saygeek(ctx, phrase_key: str = None):
             data = sg.random_phrase(phrase_key.upper())
             header = '[{}]:\n'.format(data['prefix']) if data['prefix'] else ''
             await ctx.send('{}{}'.format(header, data['phrase']))
-            logger.info('[{}] Phrase requested by {} ({}...{})'.format(phrase_key.upper(), ctx.message.author.display_name, data['phrase'][:10], data['phrase'][-10:]))
+            logger.info('{}/#{} - [{}] Phrase requested by {} ({}...{})'.format(
+                ctx.message.guild.name,
+                ctx.message.channel.name,
+                phrase_key.upper(),
+                ctx.message.author.display_name,
+                data['phrase'][:10], data['phrase'][-10:])
+            )
         else:
             await ctx.send(msg_help)
 
