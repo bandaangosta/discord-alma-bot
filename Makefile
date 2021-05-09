@@ -4,7 +4,7 @@ clean:
 	rm -rf venv && rm -rf *.egg-info && rm -rf dist #&& rm -rf *.log*
 
 venv:
-	virtualenv --python=python3 venv && venv/bin/pip install -r requirements
+	virtualenv --python=python3 venv && venv/bin/pip install -r requirements.txt
 
 run: venv
 	venv/bin/python bot.py
